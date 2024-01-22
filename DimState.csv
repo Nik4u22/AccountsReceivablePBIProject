@@ -1,0 +1,655 @@
+﻿1,New South Wales
+2,New South Wales
+3,New South Wales
+4,New South Wales
+5,New South Wales
+6,New South Wales
+7,New South Wales
+8,New South Wales
+9,New South Wales
+10,New South Wales
+11,New South Wales
+12,New South Wales
+13,New South Wales
+14,New South Wales
+15,New South Wales
+16,New South Wales
+17,New South Wales
+18,New South Wales
+19,New South Wales
+20,Queensland
+21,Queensland
+22,Queensland
+23,Queensland
+24,Queensland
+25,Queensland
+26,Queensland
+27,Queensland
+28,South Australia
+29,South Australia
+30,South Australia
+31,Tasmania
+32,Victoria
+33,Victoria
+34,Victoria
+35,Victoria
+36,Victoria
+37,Victoria
+38,Victoria
+39,Victoria
+40,Victoria
+41,Alberta
+42,Alberta
+43,British Columbia
+44,British Columbia
+45,British Columbia
+46,British Columbia
+47,British Columbia
+48,British Columbia
+49,British Columbia
+50,British Columbia
+51,British Columbia
+52,British Columbia
+53,British Columbia
+54,British Columbia
+55,British Columbia
+56,British Columbia
+57,British Columbia
+58,British Columbia
+59,British Columbia
+60,British Columbia
+61,British Columbia
+62,British Columbia
+63,British Columbia
+64,British Columbia
+65,British Columbia
+66,British Columbia
+67,British Columbia
+68,British Columbia
+69,British Columbia
+70,British Columbia
+71,British Columbia
+72,Manitoba
+73,Brunswick
+74,Ontario
+75,Ontario
+76,Ontario
+77,Ontario
+78,Ontario
+79,Ontario
+80,Ontario
+81,Ontario
+82,Ontario
+83,Ontario
+84,Ontario
+85,Ontario
+86,Ontario
+87,Ontario
+88,Ontario
+89,Ontario
+90,Ontario
+91,Ontario
+92,Ontario
+93,Ontario
+94,Ontario
+95,Ontario
+96,Ontario
+97,Ontario
+98,Ontario
+99,Ontario
+100,Quebec
+101,Quebec
+102,Quebec
+103,Quebec
+104,Quebec
+105,Quebec
+106,Quebec
+107,Quebec
+108,Quebec
+109,Quebec
+110,Quebec
+111,Quebec
+112,Quebec
+113,Quebec
+114,Brandenburg
+115,Brandenburg
+116,Bayern
+117,Bayern
+118,Bayern
+119,Bayern
+120,Bayern
+121,Bayern
+122,Hessen
+123,Hessen
+124,Hessen
+125,Hessen
+126,Hessen
+127,Hessen
+128,Hessen
+129,Hessen
+130,Hessen
+131,Hessen
+132,Hessen
+133,Hessen
+134,Hessen
+135,Hessen
+136,Hamburg
+137,Hamburg
+138,Hamburg
+139,Hamburg
+140,Hamburg
+141,Hamburg
+142,Hamburg
+143,Hamburg
+144,Hamburg
+145,Hamburg
+146,Hamburg
+147,Hamburg
+148,Hamburg
+149,Hamburg
+150,Hamburg
+151,Hamburg
+152,Nordrhein-Westfalen
+153,Nordrhein-Westfalen
+154,Nordrhein-Westfalen
+155,Nordrhein-Westfalen
+156,Nordrhein-Westfalen
+157,Nordrhein-Westfalen
+158,Nordrhein-Westfalen
+159,Nordrhein-Westfalen
+160,Nordrhein-Westfalen
+161,Nordrhein-Westfalen
+162,Nordrhein-Westfalen
+163,Saarland
+164,Saarland
+165,Saarland
+166,Saarland
+167,Saarland
+168,Saarland
+169,Saarland
+170,Saarland
+171,Saarland
+172,Saarland
+173,Saarland
+174,Saarland
+175,Saarland
+176,Saarland
+177,Saarland
+178,Saarland
+179,Charente-Maritime
+180,Garonne (Haute)
+181,Gers
+182,Loir et Cher
+183,Loiret
+184,Moselle
+185,Nord
+186,Nord
+187,Nord
+188,Nord
+189,Nord
+190,Nord
+191,Pas de Calais
+192,Seine (Paris)
+193,Seine (Paris)
+194,Seine (Paris)
+195,Seine (Paris)
+196,Seine (Paris)
+197,Seine (Paris)
+198,Seine (Paris)
+199,Seine (Paris)
+200,Seine (Paris)
+201,Seine (Paris)
+202,Seine (Paris)
+203,Seine (Paris)
+204,Seine (Paris)
+205,Seine et Marne
+206,Seine et Marne
+207,Yveline
+208,Yveline
+209,Yveline
+210,Somme
+211,Essonne
+212,Essonne
+213,Essonne
+214,Hauts de Seine
+215,Hauts de Seine
+216,Hauts de Seine
+217,Hauts de Seine
+218,Hauts de Seine
+219,Hauts de Seine
+220,Seine Saint Denis
+221,Seine Saint Denis
+222,Seine Saint Denis
+223,Seine Saint Denis
+224,Seine Saint Denis
+225,Val de Marne
+226,Val d'Oise
+227,England
+228,England
+229,England
+230,England
+231,England
+232,England
+233,England
+234,England
+235,England
+236,England
+237,England
+238,England
+239,England
+240,England
+241,England
+242,England
+243,England
+244,England
+245,England
+246,England
+247,England
+248,England
+249,England
+250,England
+251,England
+252,England
+253,England
+254,England
+255,England
+256,England
+257,England
+258,England
+259,England
+260,England
+261,England
+262,England
+263,England
+264,England
+265,England
+266,England
+267,England
+268,England
+269,England
+270,England
+271,England
+272,England
+273,England
+274,England
+275,England
+276,England
+277,England
+278,England
+279,England
+280,Alabama
+281,Alabama
+282,Alabama
+283,Alabama
+284,Alabama
+285,Arizona
+286,Arizona
+287,Arizona
+288,Arizona
+289,Arizona
+290,Arizona
+291,Arizona
+292,California
+293,California
+294,California
+295,California
+296,California
+297,California
+298,California
+299,California
+300,California
+301,California
+302,California
+303,California
+304,California
+305,California
+306,California
+307,California
+308,California
+309,California
+310,California
+311,California
+312,California
+313,California
+314,California
+315,California
+316,California
+317,California
+318,California
+319,California
+320,California
+321,California
+322,California
+323,California
+324,California
+325,California
+326,California
+327,California
+328,California
+329,California
+330,California
+331,California
+332,California
+333,California
+334,California
+335,California
+336,California
+337,California
+338,California
+339,California
+340,California
+341,California
+342,California
+343,California
+344,California
+345,California
+346,California
+347,California
+348,California
+349,California
+350,California
+351,California
+352,California
+353,California
+354,California
+355,California
+356,California
+357,California
+358,California
+359,California
+360,California
+361,California
+362,California
+363,California
+364,California
+365,California
+366,California
+367,California
+368,California
+369,California
+370,California
+371,California
+372,California
+373,California
+374,California
+375,California
+376,California
+377,California
+378,California
+379,California
+380,California
+381,California
+382,California
+383,California
+384,California
+385,California
+386,Colorado
+387,Colorado
+388,Colorado
+389,Colorado
+390,Colorado
+391,Colorado
+392,Colorado
+393,Connecticut
+394,Connecticut
+395,Connecticut
+396,Connecticut
+397,Connecticut
+398,Connecticut
+399,Connecticut
+400,Connecticut
+401,Florida
+402,Florida
+403,Florida
+404,Florida
+405,Florida
+406,Florida
+407,Florida
+408,Florida
+409,Florida
+410,Florida
+411,Florida
+412,Florida
+413,Florida
+414,Florida
+415,Florida
+416,Georgia
+417,Georgia
+418,Georgia
+419,Georgia
+420,Georgia
+421,Georgia
+422,Georgia
+423,Georgia
+424,Georgia
+425,Georgia
+426,Georgia
+427,Georgia
+428,Idaho
+429,Idaho
+430,Idaho
+431,Illinois
+432,Illinois
+433,Illinois
+434,Illinois
+435,Illinois
+436,Illinois
+437,Illinois
+438,Illinois
+439,Illinois
+440,Illinois
+441,Indiana
+442,Indiana
+443,Indiana
+444,Indiana
+445,Indiana
+446,Indiana
+447,Indiana
+448,Kentucky
+449,Kentucky
+450,Kentucky
+451,Kentucky
+452,Kentucky
+453,Massachusetts
+454,Massachusetts
+455,Massachusetts
+456,Massachusetts
+457,Massachusetts
+458,Maryland
+459,Maine
+460,Michigan
+461,Michigan
+462,Michigan
+463,Michigan
+464,Michigan
+465,Michigan
+466,Michigan
+467,Michigan
+468,Michigan
+469,Michigan
+470,Michigan
+471,Michigan
+472,Michigan
+473,Michigan
+474,Michigan
+475,Minnesota
+476,Minnesota
+477,Minnesota
+478,Minnesota
+479,Minnesota
+480,Minnesota
+481,Missouri
+482,Missouri
+483,Missouri
+484,Missouri
+485,Missouri
+486,Missouri
+487,Missouri
+488,Mississippi
+489,Mississippi
+490,Mississippi
+491,Montana
+492,Montana
+493,Montana
+494,North Carolina
+495,North Carolina
+496,North Carolina
+497,North Carolina
+498,North Carolina
+499,North Carolina
+500,North Carolina
+501,New Hampshire
+502,New Hampshire
+503,New Hampshire
+504,New Hampshire
+505,New Mexico
+506,New Mexico
+507,New Mexico
+508,Nevada
+509,Nevada
+510,Nevada
+511,Nevada
+512,Nevada
+513,New York
+514,New York
+515,New York
+516,New York
+517,New York
+518,New York
+519,New York
+520,New York
+521,New York
+522,New York
+523,New York
+524,Ohio
+525,Ohio
+526,Ohio
+527,Ohio
+528,Ohio
+529,Ohio
+530,Ohio
+531,Ohio
+532,Ohio
+533,Ohio
+534,Ohio
+535,Oregon
+536,Oregon
+537,Oregon
+538,Oregon
+539,Oregon
+540,Oregon
+541,Oregon
+542,Oregon
+543,Oregon
+544,Oregon
+545,Oregon
+546,Oregon
+547,Oregon
+548,Oregon
+549,Oregon
+550,Oregon
+551,Oregon
+552,Oregon
+553,Oregon
+554,Rhode Island
+555,Rhode Island
+556,Rhode Island
+557,South Carolina
+558,South Carolina
+559,South Carolina
+560,South Dakota
+561,South Dakota
+562,Tennessee
+563,Tennessee
+564,Tennessee
+565,Tennessee
+566,Tennessee
+567,Tennessee
+568,Tennessee
+569,Tennessee
+570,Tennessee
+571,Texas
+572,Texas
+573,Texas
+574,Texas
+575,Texas
+576,Texas
+577,Texas
+578,Texas
+579,Texas
+580,Texas
+581,Texas
+582,Texas
+583,Texas
+584,Texas
+585,Texas
+586,Texas
+587,Texas
+588,Texas
+589,Texas
+590,Texas
+591,Texas
+592,Texas
+593,Texas
+594,Utah
+595,Utah
+596,Utah
+597,Utah
+598,Utah
+599,Utah
+600,Utah
+601,Utah
+602,Virginia
+603,Virginia
+604,Virginia
+605,Virginia
+606,Virginia
+607,Washington
+608,Washington
+609,Washington
+610,Washington
+611,Washington
+612,Washington
+613,Washington
+614,Washington
+615,Washington
+616,Washington
+617,Washington
+618,Washington
+619,Washington
+620,Washington
+621,Washington
+622,Washington
+623,Washington
+624,Washington
+625,Washington
+626,Washington
+627,Washington
+628,Washington
+629,Washington
+630,Washington
+631,Washington
+632,Washington
+633,Washington
+634,Washington
+635,Washington
+636,Washington
+637,Washington
+638,Washington
+639,Washington
+640,Washington
+641,Washington
+642,Washington
+643,Washington
+644,Washington
+645,Washington
+646,Washington
+647,Washington
+648,Washington
+649,Wisconsin
+650,Wisconsin
+651,Wisconsin
+652,Wisconsin
+653,Wyoming
+654,Wyoming
+655,Wyoming
